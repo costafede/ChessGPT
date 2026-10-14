@@ -1,8 +1,10 @@
 .venv/
-data/
+notebooks/data/
 *.pt
 *.pth
 .ipynb_checkpoints/
 __pycache__/
 .idea/
 .DS_Store
+data/
+*.pt
